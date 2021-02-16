@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   <img alt="nodejs" width="26px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
   <img alt="react" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
   <img alt="mongodb" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
+  <img alt="sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" />
 </p>
