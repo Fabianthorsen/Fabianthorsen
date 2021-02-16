@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn - Fabian Thorsen](https://www.linkedin.com/in/fabian-thorsen-75591b113/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a freediving course instructor and avid rock climber/boulderer
+
+![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabianthorsen&show_icons=true&theme=calm)
