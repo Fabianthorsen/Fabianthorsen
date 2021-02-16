@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools
-<img alight="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img alight="left" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
-<img alight="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img alight="left" alt="nodejs" width="26px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
+[<img alight="left" alt="VS Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />]
+[<img alight="left" alt="python" width="26px" src="http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />]
+[<img alight="left" alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />]
+[<img alight="left" alt="nodejs" width="26px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />]
