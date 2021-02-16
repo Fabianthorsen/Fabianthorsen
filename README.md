@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm a freediving course instructor and avid rock climber/boulderer
 
-![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabianthorsen&show_icons=true&theme=calm)
+![Fabian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabianthorsen&show_icons=true&theme=graywhite)
