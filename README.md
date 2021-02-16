@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   <img alt="python" width="26px" src="https://lh3.googleusercontent.com/proxy/L9d6AAYLPzR85t5LtWygspRxF5rMkxKfnHqbs272VRhLULTDeus4bpCR1ht_G7R8sB6d4hKHBlVDQppEecMfRurxu9LRBzCFcxI" />
   <img alt="javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
   <img alt="nodejs" width="26px" src="https://nodejs.org/static/images/logo-hexagon-card.png" />
+  <img alt="react" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" />
+  <img alt="mongodb" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 </p>
